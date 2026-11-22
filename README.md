@@ -5,7 +5,7 @@ Pirzada Naveeduallah Shah · 24i-2040 · Section B
 Fictional Islamabad small-group fitness studio. Browse ten classes, search/filter/sort, inspect details, build a plan, and complete a simulated booking.
 
 Repository: https://github.com/i242040-hash/assignment-02-react
-Deployment: https://stellular-blancmange-66688b.netlify.app/ (currently returns 401; make public in Netlify)
+Deployment: https://stellular-blancmange-66688b.netlify.app/ (homepage public; redeploy latest commit for nested-route refresh)
 
 ## Run
 
