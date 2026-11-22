@@ -5,7 +5,7 @@ Pirzada Naveeduallah Shah · 24i-2040 · Section B
 Fictional Islamabad small-group fitness studio. Browse ten classes, search/filter/sort, inspect details, build a plan, and complete a simulated booking.
 
 Repository: https://github.com/i242040-hash/assignment-02-react
-Deployment: **pending URL from student**
+Deployment: https://stellular-blancmange-66688b.netlify.app/ (currently returns 401; make public in Netlify)
 
 ## Run
 
@@ -16,7 +16,7 @@ npm run build
 npm test
 ```
 
-Routes: `/` home, `/classes` browse, `/classes/:id` details, `/plan` booking, `/confirmation` result. Vite development server supports nested route refresh. Hosting must rewrite unknown paths to `index.html`.
+Routes: `/` home, `/classes` browse, `/classes/:id` details, `/plan` booking, `/confirmation` result. Vite development server supports nested route refresh. Netlify uses `public/_redirects` to rewrite unknown paths to `index.html`.
 
 ## Rules and edge cases
 
